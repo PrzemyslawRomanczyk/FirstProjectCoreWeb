@@ -36,3 +36,4 @@ C:\Users\Przemek\source\repos\FirstProjectCoreWeb\FirstProjectCoreWeb\obj\Debug\
 C:\Users\Przemek\source\repos\FirstProjectCoreWeb\FirstProjectCoreWeb\obj\Debug\netcoreapp3.1\FirstProjectCoreWeb.pdb
 C:\Users\Przemek\source\repos\FirstProjectCoreWeb\FirstProjectCoreWeb\obj\Debug\netcoreapp3.1\FirstProjectCoreWeb.genruntimeconfig.cache
 C:\Users\Przemek\source\repos\FirstProjectCoreWeb\FirstProjectCoreWeb\obj\Debug\netcoreapp3.1\FirstProjectCoreWeb.csproj.CopyComplete
+C:\Users\Przemek\source\repos\FirstProjectCoreWeb\FirstProjectCoreWeb\obj\Debug\netcoreapp3.1\Razor\Views\Company\CompanyAdded.cshtml.g.cs
